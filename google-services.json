@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228275389834",
+    "firebase_url": "https://plugdjclone-d8f47.firebaseio.com",
+    "project_id": "plugdjclone-d8f47",
+    "storage_bucket": "plugdjclone-d8f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228275389834:android:374f70b48df8abdb",
+        "android_client_info": {
+          "package_name": "com.plugdjclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228275389834-rrr0cb2490n2e8qi2kcagq72iabuvlec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxbyC6_a_LuI7YP3TN51g8XvH4w7VgWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
