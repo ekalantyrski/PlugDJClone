@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PlugDJClone.iml" filepath="$PROJECT_DIR$/.idea/PlugDJClone.iml" />
-      <module fileurl="file://C:\Users\Case\Desktop\PlugDJClone\PlugDJClone.iml" filepath="C:\Users\Case\Desktop\PlugDJClone\PlugDJClone.iml" />
-      <module fileurl="file://C:\Users\Case\Desktop\PlugDJClone\app\app.iml" filepath="C:\Users\Case\Desktop\PlugDJClone\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlugDJClone.iml" filepath="$PROJECT_DIR$/PlugDJClone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
